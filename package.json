@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/andrewc98/week10/issues"
   },
-  "homepage": "https://github.com/andrewc98/week10#readme"
+  "homepage": "https://github.com/andrewc98/week10#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
 }
